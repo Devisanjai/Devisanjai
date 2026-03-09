@@ -6,9 +6,10 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 ---
-
-- 🔭 I’m currently working on **Riya Fashion** — a full-stack Vue.js project for a medical service platform  
-- 🌱 I’m currently learning **Front End Web Development**
+- 🖥️ Aspiring Software Developer with strong interest in building modern web applications and continuously learning new technologies.
+- 💻 I’m passionate about Software Development and enjoy building scalable web applications using modern technologies.
+- 🔭 I have worked on **Riya Fashion** — a full-stack Vue.js project for a E-commerce website to explore about Front end and Backend technologies  
+- 🌱 I’m currently learning **Software Development**
 - 📫 Reach me: **[devisanjai2@gmail.com](mailto:devisanjai2@gmail.com)**
 
 ---
