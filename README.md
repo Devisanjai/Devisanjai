@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello 👋, I'm Devi S</h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 ---
 
