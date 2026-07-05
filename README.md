@@ -31,5 +31,5 @@
 ---
 
 ### 📌 Featured Projects
-- **Employee Management System** — CRUD application built with Spring Boot, REST APIs, and MySQL *(link once pushed)*
-- **AI-Powered Mental Health Chatbot** — Python (Flask) chatbot integrating an AI API *(link once pushed)*
+- **Employee Management System** — CRUD application built with Spring Boot, REST APIs, and MySQL
+- **AI-Powered Mental Health Chatbot** — Python (Flask) chatbot integrating an AI API 
